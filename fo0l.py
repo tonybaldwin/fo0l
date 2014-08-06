@@ -3,7 +3,7 @@
 #########################################################
 # fo0l
 # Shakespearean insult generator
-# by tony baldwin | tony@baldwinsoftware.com
+# by tony baldwin | https://tonybaldwin.info
 # released according to the terms of the GNU GPL v. 3
 ##########################################################
 
@@ -30,7 +30,7 @@ c2 = c[c1]
 print("Thou " + a2 + ", " + b2 + " " + c2 + "!")
 
 #########################################################################
-# This program was written by tony baldwin - tony@baldwinsoftware.com
+# This program was written by tony baldwin - https://tonybaldwin.info
 # This program is free software; you can redistribute it and/or modify 
 # it under the terms of the GNU General Public License as published by 
 # the Free Software Foundation; either version 2 of the License, or 
