@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 # Shakespearean insult generator
-#  written by Tony Baldwin  / www.baldwinsoftware.com
-# 
+# written by tony baldwin | https://tonybaldwin.info
+# released according to GPLv3
 
 import sys
 from Tkinter import *
