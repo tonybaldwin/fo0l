@@ -28,6 +28,7 @@ fo0l requires python (duh)
 ### Graphical client
 I wrote a gui version (with tkinter), available at 
 http://wiki.tonybaldwin.info/doku.php?id=hax:shakes
+UPDATE: shakes.py (gui w/tkinter) now included in this repo
 
 ## Shakes.php
 
