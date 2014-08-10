@@ -8,6 +8,7 @@ Here you have three scripts:
 * shakes.py - graphical version of above with tkinter gui
 * shakes.php - a Shakespeare insult generator in php (released according to the terms of the GNU Affero Public License)
 
+There are 249,600 possible distinct insults that these will generate at this time (08.10.2014), and I keep adding more.
 
 ## fo0l.py
 
