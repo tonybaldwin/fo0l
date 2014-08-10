@@ -27,9 +27,9 @@ Like
 **Thou fusty, rampallian maggot-pie!**
 
 ### Dependencies:
-fo0l.py requires python (duh)
-shakes.py requires python and tkinter
-shakes.php requires php and a webserver
+* fo0l.py requires python (duh)
+* shakes.py requires python and tkinter
+* shakes.php requires php and a webserver
 
 ### Graphical client
 I wrote a gui version (with tkinter), available at 
