@@ -43,7 +43,7 @@ t1.pack(fill=BOTH, expand=1)
 
 mainloop()
 
-# This program was written by anthony baldwin - tonytraductor@linguasos.org 
+# This program was written by tony baldwin | https://tonybaldwin.info
 # This program is free software; you can redistribute it and/or modify 
 # it under the terms of the GNU General Public License as published by 
 # the Free Software Foundation; either version 2 of the License, or 
